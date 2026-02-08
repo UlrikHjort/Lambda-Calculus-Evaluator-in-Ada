@@ -1,5 +1,11 @@
 # Lambda Calculus Evaluator in Ada
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Ada-2012-blue.svg" alt="Ada 2012">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
+</p>
+
+
 A simple **[lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)** interpreter written in Ada that uses "/" as the lambda symbol.
 
 ## Features
