@@ -23,7 +23,6 @@ A simple **[lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)** in
 ```bash
 make
 ```
-
 Or manually:
 ```bash
 gnatmake -D bin src/main.adb -o bin/lambda
@@ -128,3 +127,4 @@ Testing: tests/numerals.l
 /f./x.f x
 /f./x.f (f x)
 ```
+
