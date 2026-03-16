@@ -1,5 +1,5 @@
 -- ***************************************************************************
---                      Main - Lambda Calculus REPL
+--                  Main - Lambda Calculus REPL
 --
 --           Copyright (C) 2026 By Ulrik Hørlyk Hjort
 --
