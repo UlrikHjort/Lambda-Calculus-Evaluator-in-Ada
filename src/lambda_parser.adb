@@ -1,5 +1,5 @@
 -- ***************************************************************************
---                      Lambda_Parser - Package Body
+--                 Lambda_Parser - Package Body
 --
 --           Copyright (C) 2026 By Ulrik Hørlyk Hjort
 --
