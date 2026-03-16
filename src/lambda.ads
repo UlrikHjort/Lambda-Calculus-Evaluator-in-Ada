@@ -1,5 +1,5 @@
 -- ***************************************************************************
---                      Lambda - Package Specification
+--                 Lambda - Package Specification
 --
 --           Copyright (C) 2026 By Ulrik Hørlyk Hjort
 --
