@@ -1,5 +1,5 @@
 -- ***************************************************************************
---                      Lambda_Parser - Package Specification
+--             Lambda_Parser - Package Specification
 --
 --           Copyright (C) 2026 By Ulrik Hørlyk Hjort
 --
